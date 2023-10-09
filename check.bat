@@ -1,4 +1,5 @@
 @echo off
+mode con: cols=100 lines=100
 cd C:\
 color 4
 type logo.txt
